@@ -1,0 +1,45 @@
+.box2 {
+    width: 100%;
+    height: 10vw;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.box2 h3{
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    color: white;
+}
+
+.box2 h5{
+    position: absolute;
+    top: 72%;
+    left: 30%;
+    color: white;
+}
+
+.profileImage2{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #000;
+    border: 3px solid #fff;
+}
+
+.profileImage2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.smallImage {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
