@@ -6,7 +6,7 @@ const FirstPart = () => {
   return (
     <div className="firstPart">
         <div className="logo">
-            <img src="/artchick-photography-logo.webp" alt="logo"/>
+            <img src="/artchick-photography-logo-removebg-preview.png" alt="logo"/>
         </div>
         <div className="searchBar">
           <div className="search">
